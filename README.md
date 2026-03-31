@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Cameron Reed 
-I enjoy creating tools that solve real problems and can be shared with others.
-When I’m not coding, I'm likely practicing other hobbies or playing games with friends.
-I’m disciplined and always looking to learn, improve, and take on new challenges.
+I enjoy creating things that can be shared with others.
 
 ---
 ## Selected Projects
@@ -17,10 +15,9 @@ Built in an 8-hour sprint, lets users register, log in, and manage tasks with dr
 ## 🎯 Short Term Goals
 Learn Go
 Improve error handling
-Build more meaningful projects
 Deepen understanding of systems and syntax
 
 ## 🚀 Long Term Goals
 Become job ready as a developer
-Build polished, real-world products
+Build more polished projects
 
