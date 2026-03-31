@@ -3,7 +3,7 @@ I enjoy creating things that can be shared with others.
 
 ---
 ## Selected Projects  
-🌐 Barrett Website Project
+🌐 Barrett Website Project  
 Python | Flask | SQLite | JWT | HTML | CSS | JavaScript  
 A challenge based full stack web app featuring authentication, API interactions, persistent storage, and a browser based game.  
 
