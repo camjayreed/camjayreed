@@ -13,9 +13,9 @@ Built in an 8-hour sprint, lets users register, log in, and manage tasks with dr
 
 ---
 ## 🎯 Short Term Goals
-Learn Go  
-Improve error handling  
-Deepen understanding of systems and syntax  
+Improve error handling
+Comfortable with C# and .NET
+Build more from referencing documentation
 
 ## 🚀 Long Term Goals
 Become job ready as a developer  
